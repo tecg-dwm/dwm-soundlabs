@@ -24,6 +24,7 @@ Les utilisateurs de ces différents genres ne consomment pas la musique de la m�
 
 ### Mise en garde et précisions diverses
 
+- Ce cahier des charges définit un cadre et un ensemble de fonctionnalités attendues, mais ne garantit en aucun cas la qualité du produit final. Votre application doit rester utilisable, compréhensible et accessible, y compris lorsque vous faites des choix au-delà ou en-deçà des fonctionnalités décrites.
 - Soundlabs **n’est pas** une application de streaming généraliste. Il ne s'agit pas de reproduire Spotify ou Apple Music.
 - Les informations techniques **sont secondaires (mais nécessaires)** par rapport à la compréhension des parcours et des décisions utilisateur.
 - Vous devrez être capable de **justifier chacun de vos choix** par rapport aux objectifs de Soundlabs. ⚠️ Je suis susceptible de vous interroger si vos productions ne reflètent pas votre travail personnel (je vous évalue **vous**, pas une IA, pas un template, ni le travail d’une autre personne).
